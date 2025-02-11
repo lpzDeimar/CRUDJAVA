@@ -1,4 +1,4 @@
-package org.example.lpzNancy.repository;
+package org.example.lpz.repository;
 
 import java.sql.SQLException;
 import java.util.List;

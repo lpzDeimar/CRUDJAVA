@@ -1,8 +1,8 @@
-package org.example.lpzNancy.main;
-import org.example.lpzNancy.model.Employee;
-import org.example.lpzNancy.repository.EmployeeRepository;
-import org.example.lpzNancy.repository.Repository;
-import org.example.lpzNancy.util.DatabaseConnection;
+package org.example.lpz.main;
+import org.example.lpz.model.Employee;
+import org.example.lpz.repository.EmployeeRepository;
+import org.example.lpz.repository.Repository;
+import org.example.lpz.util.DatabaseConnection;
 
 import java.sql.*;
 

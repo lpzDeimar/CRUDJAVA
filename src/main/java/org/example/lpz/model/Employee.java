@@ -1,4 +1,4 @@
-package org.example.lpzNancy.model;
+package org.example.lpz.model;
 
 public class Employee {
 

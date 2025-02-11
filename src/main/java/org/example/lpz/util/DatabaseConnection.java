@@ -1,4 +1,4 @@
-package org.example.lpzNancy.util;
+package org.example.lpz.util;
 
 import java.sql.*;
 

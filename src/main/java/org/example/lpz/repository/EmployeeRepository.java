@@ -1,7 +1,7 @@
-package org.example.lpzNancy.repository;
+package org.example.lpz.repository;
 
-import org.example.lpzNancy.model.Employee;
-import org.example.lpzNancy.util.DatabaseConnection;
+import org.example.lpz.model.Employee;
+import org.example.lpz.util.DatabaseConnection;
 
 import java.sql.*;
 import java.util.ArrayList;
